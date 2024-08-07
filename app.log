@@ -1,0 +1,62 @@
+root - INFO - Data loaded and preprocessed successfully.
+root - INFO - Features created successfully.
+root - INFO - Data split into training and testing sets successfully.
+root - INFO - Linear Regression - Train MAE: 87523.7342222422, Test MAE: 83599.63511168023
+root - INFO - Decision Tree - Train MAE: 64495.55679242295, Test MAE: 65713.83615390827
+root - INFO - Decision Tree plotted successfully.
+root - INFO - Decision Tree plotted successfully.
+root - INFO - Random Forest - Train MAE: 17473.948788590606, Test MAE: 42144.661012064345
+root - INFO - Random Forest model saved successfully.
+root - INFO - Sample prediction: [249295.21]
+2024-08-06 22:23:45,036 - INFO - Data loaded and preprocessed successfully.
+2024-08-06 22:23:45,037 - INFO - Features created successfully.
+2024-08-06 22:23:45,043 - INFO - Data split into training and testing sets successfully.
+2024-08-06 22:23:45,066 - INFO - Linear Regression - Train MAE: 87523.7342222422, Test MAE: 83599.63511168023
+2024-08-06 22:23:45,081 - INFO - Decision Tree - Train MAE: 64495.55679242295, Test MAE: 65713.83615390827
+2024-08-06 22:23:59,419 - INFO - Decision Tree plotted successfully.
+2024-08-06 22:23:59,420 - INFO - Decision Tree plotted successfully.
+2024-08-06 22:24:14,315 - INFO - Random Forest - Train MAE: 17383.608375838925, Test MAE: 42803.583331099195
+2024-08-06 22:24:14,396 - INFO - Random Forest model saved successfully.
+2024-08-06 22:24:14,470 - INFO - Sample prediction: [257125.065]
+2024-08-06 22:55:09,175 - INFO - Data loaded successfully.
+2024-08-06 22:55:09,177 - INFO - Data loaded and preprocessed successfully.
+2024-08-06 22:55:09,180 - INFO - Features created successfully.
+2024-08-06 22:55:09,180 - INFO - Features created successfully.
+2024-08-06 22:55:09,185 - INFO - Data split successfully.
+2024-08-06 22:55:09,186 - INFO - Data split into training and testing sets successfully.
+2024-08-06 22:55:09,215 - INFO - Linear Regression model trained successfully.
+2024-08-06 22:55:09,221 - INFO - Model evaluated successfully.
+2024-08-06 22:55:09,221 - INFO - Linear Regression - Train MAE: 87523.7342222422, Test MAE: 83599.63511168023
+2024-08-06 22:55:09,238 - INFO - Decision Tree model trained successfully.
+2024-08-06 22:55:09,253 - INFO - Model evaluated successfully.
+2024-08-06 22:55:09,254 - INFO - Decision Tree - Train MAE: 64495.55679242295, Test MAE: 65713.83615390827
+2024-08-06 22:55:22,517 - INFO - Decision Tree plotted successfully.
+2024-08-06 22:55:22,517 - INFO - Decision Tree plotted successfully.
+2024-08-06 22:55:38,306 - INFO - Random Forest model trained successfully.
+2024-08-06 22:55:38,438 - INFO - Model evaluated successfully.
+2024-08-06 22:55:38,438 - INFO - Random Forest - Train MAE: 17417.88864932886, Test MAE: 42267.57548927614
+2024-08-06 22:55:38,613 - INFO - Model saved successfully.
+2024-08-06 22:55:38,614 - INFO - Random Forest model saved successfully.
+2024-08-06 22:55:38,731 - INFO - Model loaded successfully.
+2024-08-06 22:55:38,744 - INFO - Sample prediction: [254753.59]
+2024-08-06 23:23:26,153 - INFO - Data loaded successfully.
+2024-08-06 23:23:26,153 - INFO - Data loaded and preprocessed successfully.
+2024-08-06 23:23:26,154 - INFO - Features created successfully.
+2024-08-06 23:23:26,154 - INFO - Features created successfully.
+2024-08-06 23:23:26,158 - INFO - Data split successfully.
+2024-08-06 23:23:26,158 - INFO - Data split into training and testing sets successfully.
+2024-08-06 23:23:26,172 - INFO - Linear Regression model trained successfully.
+2024-08-06 23:23:26,177 - INFO - Model evaluated successfully.
+2024-08-06 23:23:26,177 - INFO - Linear Regression - Train MAE: 87523.7342222422, Test MAE: 83599.63511168023
+2024-08-06 23:23:26,182 - INFO - Decision Tree model trained successfully.
+2024-08-06 23:23:26,185 - INFO - Model evaluated successfully.
+2024-08-06 23:23:26,185 - INFO - Decision Tree - Train MAE: 64495.55679242295, Test MAE: 65713.83615390827
+2024-08-06 23:23:33,184 - INFO - Decision Tree plotted successfully.
+2024-08-06 23:23:33,184 - INFO - Decision Tree plotted successfully.
+2024-08-06 23:23:47,875 - INFO - Random Forest model trained successfully.
+2024-08-06 23:23:47,966 - INFO - Model evaluated successfully.
+2024-08-06 23:23:47,966 - INFO - Random Forest - Train MAE: 17471.105203020135, Test MAE: 42890.08144101877
+2024-08-06 23:23:48,065 - INFO - Model saved successfully.
+2024-08-06 23:23:48,065 - INFO - Random Forest model saved successfully.
+2024-08-06 23:23:48,135 - INFO - Model loaded successfully.
+2024-08-06 23:23:48,148 - INFO - Sample prediction: [252469.68]
